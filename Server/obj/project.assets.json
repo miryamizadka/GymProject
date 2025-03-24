@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\MVCProject\\Server\\Server.csproj",
+      "projectUniqueName": "H:\\gitProject\\GymProject\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "H:\\MVCProject\\Server\\Server.csproj",
+      "projectPath": "H:\\gitProject\\GymProject\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\צדקה מרים\\.nuget\\packages\\",
-      "outputPath": "H:\\MVCProject\\Server\\obj\\",
+      "outputPath": "H:\\gitProject\\GymProject\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -494,8 +494,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "H:\\MVCProject\\BL\\BL.csproj": {
-              "projectPath": "H:\\MVCProject\\BL\\BL.csproj"
+            "H:\\gitProject\\GymProject\\BL\\BL.csproj": {
+              "projectPath": "H:\\gitProject\\GymProject\\BL\\BL.csproj"
             }
           }
         }

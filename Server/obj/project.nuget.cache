@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNgQn2JcNL8=",
+  "dgSpecHash": "hsc08f7FfyI=",
   "success": true,
-  "projectFilePath": "H:\\MVCProject\\Server\\Server.csproj",
+  "projectFilePath": "H:\\gitProject\\GymProject\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\צדקה מרים\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\צדקה מרים\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
